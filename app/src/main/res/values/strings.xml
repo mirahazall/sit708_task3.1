@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_heading">SIT 708 Quiz App</string>
+    <string name="name_prompt">Enter your name:</string>
+</resources>
